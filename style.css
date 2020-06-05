@@ -1,0 +1,24 @@
+body {
+	background-image: url(./img/ryaba.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+input {
+	opacity: 0.4;
+	border: none;
+	margin: 10px 0 10px 0;
+}
+
+button {
+	padding: 10px 10px 10px 10px;
+	background-color: #3492eb;
+	font-weight: 800;
+}
+
+.orgText {
+	color: #fff;
+	font-size: 16px;
+	opacity: 1;
+	width: 300px;
+}
